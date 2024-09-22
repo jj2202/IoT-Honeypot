@@ -16,3 +16,8 @@ Project Details:
 
 Extra:
 Used SNORT IDS to alert for attackers' movements
+
+Network Diagram
+
+
+![networkdiagram](https://github.com/user-attachments/assets/1b530a16-75dc-4c0a-b79b-917c622cc183)
