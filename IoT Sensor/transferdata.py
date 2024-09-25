@@ -1,3 +1,9 @@
+# This script reads temperature and humidity data from the Raspberry Pi Sense HAT sensor and sends the data to 3 destinations
+# 1. EdgeX IoT gateway via HTTP POST Requests
+# 2. A MySQL database on the engineering worksation 
+# 3. Azure IoT Hub by sending messages containing the data 
+# The script runs continuously, updating every 2 seconds
+
 import sys
 import time
 import requests
